@@ -7,3 +7,4 @@
 ./minecraft_stop.sh factions
 ./minecraft_stop.sh kenny
 ./minecraft_stop.sh space\ x
+./minecraft_stop.sh james
