@@ -6,7 +6,7 @@ then
 else
  name=$1
 fi
-path="/var/opt/minecraft/crafty/servers/"
+path="/var/opt/minecraft/server/"
 output=$(ls $path | grep $name)
 fullpathname="$path"$name
 MCVER="1.16.1"
